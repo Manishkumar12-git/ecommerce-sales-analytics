@@ -1,0 +1,8 @@
+order_id,order_date,order_status,city,state,category,price,quantity,total_item_revenue
+101,2025-01-20,Delivered,Delhi,Delhi,Electronics,12000.00,1,12000.00
+103,2025-02-15,Cancelled,Delhi,Delhi,Electronics,12000.00,1,12000.00
+102,2025-01-25,Delivered,Mumbai,Maharashtra,Apparel,1500.00,2,3000.00
+107,2025-03-20,Delivered,Mumbai,Maharashtra,Electronics,12000.00,1,12000.00
+104,2025-02-28,Delivered,Bengaluru,Karnataka,"Home Decor",3500.00,1,3500.00
+105,2025-03-10,Returned,Chennai,"Tamil Nadu",Apparel,2000.00,1,2000.00
+106,2025-03-15,Delivered,Nainital,Uttarakhand,Apparel,1500.00,1,1500.00
